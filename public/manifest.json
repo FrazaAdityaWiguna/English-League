@@ -1,0 +1,60 @@
+{
+    "name": "English League",
+    "short_name": "English League",
+    "description": "English league information",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ff9642",
+    "theme_color": "#ffe05d",
+    "orientation": "portrait",
+    "gcm_sender_id": "215015656581",
+    "icons": [{
+            "src": "./img/icon_1.png",
+            "sizes": "72x72",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./img/icon_2.png",
+            "sizes": "96x96",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./img/icon_3.png",
+            "sizes": "128x128",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./img/icon_4.png",
+            "sizes": "144x144",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./img/icon_5.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./img/icon_6.png",
+            "sizes": "256x256",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./img/icon_7.png",
+            "sizes": "384x384",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "./img/icon_8.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
+        }
+    ]
+}
